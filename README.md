@@ -38,7 +38,8 @@
 
 20.Java program to convert Decimal Number to Hexadecimal Number
 
-<!-- 21.Java program !> Array sorting -->
+21.Java program --> Array sorting
 
+22.Java Program to demonstrate merging of two array
 
 
