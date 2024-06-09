@@ -40,6 +40,4 @@
 
 21.Java program --> Array sorting
 
-22.Java Program to demonstrate merging of two array
-
-
+22.Java Program to demonstrate merging of two Array
