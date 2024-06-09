@@ -12,6 +12,7 @@ class sum {
 		fib[0] = 0;
 		fib[1] = 1;
  
+		// int 
 		int s = 0;
  
 		for (int j = 2; j <= 2 * N; j++) {
