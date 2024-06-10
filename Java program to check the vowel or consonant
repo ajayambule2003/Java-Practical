@@ -16,4 +16,4 @@ public class vowel {
 		Vowel_Or_Consonant('b'); 
 		Vowel_Or_Consonant('u'); 
 	} 
-}
+} 

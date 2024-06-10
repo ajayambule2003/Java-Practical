@@ -16,7 +16,7 @@ class matrix {
  
 			for (int x = cl; x < q; x++) {
 				current = matrix[rw][x];
-				matrix[rw][x] = previous;
+				matrix[rw][x] = previous; 
 				previous = current;
 			}
 			rw++;

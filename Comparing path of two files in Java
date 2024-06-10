@@ -17,7 +17,7 @@ public class file {
 			System.out.println(
 				"Paths of file1 and file2 are not same");
 		}
-
+ 
 		if (file1.compareTo(file3) == 0) {
 			System.out.println(
 				"paths of file1 and file3 are same");

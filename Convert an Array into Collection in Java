@@ -17,4 +17,4 @@ public class ArrayToCollection {
 		System.out.println("Converted elements: "
 						+ playersList);
 	}
-}
+} 

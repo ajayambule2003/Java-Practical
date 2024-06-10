@@ -13,7 +13,7 @@ class CollectionDemo {
 		Hashtable<Integer, String> h = new Hashtable();
 		v.addElement(1);
 		v.addElement(2);
-
+  
 		h.put(1, "geeks");
 		h.put(2, "4geeks");
  

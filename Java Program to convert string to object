@@ -14,4 +14,5 @@ class obj {
 		
 	System.out.println("object is : "+object); 
 	} 
-}
+} 
+  

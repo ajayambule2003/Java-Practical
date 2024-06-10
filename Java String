@@ -16,3 +16,4 @@ class file {
 			+ ((Object)str).getClass().getSimpleName());
 	}
 }
+ 

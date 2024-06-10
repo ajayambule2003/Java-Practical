@@ -14,7 +14,7 @@ class Student {
 		this.rollno = rollno;
 		this.name = name;
 		this.address = address;
-	}
+	} 
  
 	public String toString()
 	{

@@ -13,7 +13,7 @@ public class type {
  
 			hexNum[i] = n % 16; 
 			n = n / 16; 
-			i++; 
+			i++;  
 		} 
  
 		for (int j = i - 1; j >= 0; j--) { 
