@@ -13,6 +13,7 @@ class obj {
 						+object.getClass().getName()); 
 		
 	System.out.println("object is : "+object); 
-	} 
+	}  
 } 
-  
+
+ 
