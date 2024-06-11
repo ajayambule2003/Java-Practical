@@ -5,7 +5,7 @@ class obj {
 	public static void main(String[] args) 
 	{ 
  
-		String s = "hereajay"; 
+		String s = "hereajay "; 
  
 		Object object = s; 
  
