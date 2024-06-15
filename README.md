@@ -46,4 +46,4 @@
 
 24.Java implementation of iterative Binary Search 
 
-25.
+25.Java Encapsulation
