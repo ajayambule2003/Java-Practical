@@ -47,3 +47,5 @@
 24.Java implementation of iterative Binary Search 
 
 25.Java Encapsulation
+
+26.Java program to array rotation
