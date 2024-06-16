@@ -50,4 +50,4 @@
 
 26.Java program to array rotation
 
-27. 
+27.JJava program to find the trace and normal of the given matrix
