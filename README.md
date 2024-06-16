@@ -50,4 +50,6 @@
 
 26.Java program to array rotation
 
-27.JJava program to find the trace and normal of the given matrix
+27.Java program to find the trace and normal of the given matrix
+
+28.Java program to Remove zeros from a given String
