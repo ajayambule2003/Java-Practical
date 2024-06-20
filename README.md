@@ -53,3 +53,5 @@
 27.Java program to find the trace and normal of the given matrix
 
 28.Java program to Remove zeros from a given String
+
+29.Java program for addition of two matrices
