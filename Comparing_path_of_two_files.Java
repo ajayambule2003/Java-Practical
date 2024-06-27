@@ -10,7 +10,7 @@ public class file {
 		File file3 = new File("/home/mayur/GFG.java");
 
 		if (file1.compareTo(file2) == 0) {
-			System.out.println(
+			System.out.println( 
 				"paths of file1 and file2 are same");
 		}
 		else {
