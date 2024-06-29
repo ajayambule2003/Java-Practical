@@ -8,8 +8,8 @@ class Person {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setName(java.lang.String string) {
+        this.name = string;
     }
 
     public int getAge() {
