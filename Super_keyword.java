@@ -1,9 +1,9 @@
 // super keyword in java program
-class Vehicle {
+class Super_keyword {
 	int maxSpeed = 120;
 }
 
-class Car extends Vehicle {
+class Car extends Super_keyword {
 	int maxSpeed = 180;
 
 	void display() {

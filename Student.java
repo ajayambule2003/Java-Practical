@@ -1,42 +1,37 @@
 // Java program --> Array sorting
- 
+
 import java.io.*;
 import java.lang.*;
 import java.util.*;
- 
+
 class Student {
 	int rollno;
 	String name, address;
- 
-	public Student(int rollno, String name, String address)
-	{
- 
+
+	public Student(int rollno, String name, String address) {
+
 		this.rollno = rollno;
 		this.name = name;
 		this.address = address;
-	} 
- 
-	public String toString()
-	{
+	}
+
+	public String toString() {
 		return this.rollno + " " + this.name + " "
-			+ this.address;
+				+ this.address;
 	}
 }
- 
+
 class Sortbyroll implements Comparator<Student> {
-	 
-	public int compare(Student a, Student b)
-	{
+
+	public int compare(Student a, Student b) {
 		return a.rollno - b.rollno;
 	}
 }
- 
+
 class sort {
- 
-	public static void main(String[] args)
-	{
-		Student[] arr
-			= { new Student(111, "bbbb", "london"),
+
+	public static void main(String[] args) {
+		Student[] arr = { new Student(111, "bbbb", "london"),
 				new Student(131, "aaaa", "nyc"),
 				new Student(121, "cccc", "jaipur") };
 
@@ -44,8 +39,8 @@ class sort {
 
 		for (int i = 0; i < arr.length; i++)
 			System.out.println(arr[i]);
- 
-		Arrays.sort(arr, new Sortbyroll());
+
+		// Arrays.sort(arr, new Sortbyroll());
 
 		System.out.println("\nSorted by rollno");
 
