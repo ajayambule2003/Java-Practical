@@ -63,3 +63,7 @@
 32.Java Program to Sort Elements of an Array
 
 33.Java program to swap_pair of characters of a string
+
+34.
+
+35.Java Program to convert local time to GMT
