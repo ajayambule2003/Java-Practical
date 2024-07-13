@@ -1,5 +1,5 @@
 // Comparing path of two files in Java
-
+cuu
 import java.io.File;
 public class file {
 	public static void main(String[] args)
@@ -28,3 +28,4 @@ public class file {
 		}
 	}
 }
+

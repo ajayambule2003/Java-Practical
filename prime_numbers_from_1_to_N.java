@@ -1,13 +1,12 @@
 // Java program to find the prime numbers  from 1 to N 
-class prime {
+class prime_numbers_from_1_to_N {
 
-	static void prime_N(int N)
-	{
+	static void prime_N(int N) {
 		int x, y, flg;
 
 		System.out.println(
-			"All the Prime numbers within 1 and " + N
-			+ " are:");
+				"All the Prime numbers within 1 and " + N
+						+ " are:");
 
 		for (x = 1; x <= N; x++) {
 
@@ -17,15 +16,15 @@ class prime {
 			for (y = 2; y <= x / 2; ++y) {
 				if (x % y == 0) {
 					flg = 0;
-		 			break;
+					break;
 				}
 			}
 			if (flg == 1)
 				System.out.print(x + " ");
 		}
 	}
-	public static void main(String[] args)
-	{
+
+	public static void main(String[] args) {
 		int N = 45;
 		prime_N(N);
 	}
