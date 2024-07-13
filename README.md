@@ -60,7 +60,7 @@
 
 31.Java program to demonstrate toString() Method
 
-32.Java Program to Sort Elements of an Array
+32.Java Program to Sort Elements of an Array 
 
 33.Java program to swap_pair of characters of a string
 
