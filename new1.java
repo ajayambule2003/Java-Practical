@@ -1,3 +1,5 @@
+
+// Java Program to Handle Checked Exceptio Where FileInputStream
 import java.io.*;
 
 public class new1 {

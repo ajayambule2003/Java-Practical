@@ -71,3 +71,5 @@
 36.Java Program to Print Upper Part of Mirror Upper Star
 
 37.Java Program to find common elements in Array
+
+38.Java Program to Handle Checked Exceptio Where FileInputStream
