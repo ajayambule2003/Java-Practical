@@ -73,3 +73,5 @@
 37.Java Program to find common elements in Array
 
 38.Java Program to Handle Checked Exceptio Where FileInputStream
+
+39.Java Program to Split a List into Two Sublist
