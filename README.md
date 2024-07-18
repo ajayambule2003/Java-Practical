@@ -75,3 +75,5 @@
 38.Java Program to Handle Checked Exceptio Where FileInputStream
 
 39.Java Program to Split a List into Two Sublist
+
+41.Java Program to print Butterfly Pattern
