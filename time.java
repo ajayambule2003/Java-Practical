@@ -10,7 +10,7 @@ public class time {
 
         System.out.println("Current Time is : " + date);
 
-        SimpleDateFormat formatTime = new SimpleDateFormat("hh.mm aa");
+        SimpleDateFormat formatTime = new SimpleDateFormat("hh.mm  aa");
 
         String time = formatTime.format(
                 date);
