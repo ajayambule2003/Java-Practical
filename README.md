@@ -77,3 +77,5 @@
 39.Java Program to Split a List into Two Sublist
 
 41.Java Program to print Butterfly Pattern
+
+42.Java program to demonstrate extracting first letter of each word using Regex
