@@ -15,7 +15,7 @@ class HCF {
 		return GCD(x, y - x);
 	}
 
-	//
+	// Through that we
 
 	public static void main(String[] args) {
 		int x = 100, y = 88;
