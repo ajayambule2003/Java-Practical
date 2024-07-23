@@ -78,6 +78,6 @@
 
 41.Java Program to print Butterfly Pattern
 
-42.Java program to demonstrate extracting first letter of each word using Regex
-
+42.Java program to demonstrate extracting first letter of each word using Regex 
+  
 43.Java program to Insert Elements in LinkedList at first and last position to showcase addFirst() and addlast() Method
