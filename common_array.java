@@ -35,5 +35,5 @@ class common_array {
 
         System.out.print("Common Elements: ");
         FindCommonElemet(arr1, arr2);
-     }
+    }
 }

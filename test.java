@@ -3,7 +3,7 @@
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Test {
+public class test {
     public static void main(String[] args) {
         String s1 = "Java programming";
         String s2 = "A Computer Science Portal for Geeks";
