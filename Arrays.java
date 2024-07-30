@@ -37,4 +37,9 @@ class Arrays {
         Rotate(arr, d, N);
         PrintTheArray(arr, N);
     }
+
+    public static String toString(String[] arr1) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'toString'");
+    }
 }
