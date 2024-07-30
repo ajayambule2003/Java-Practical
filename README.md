@@ -30,7 +30,7 @@
 
 16.Fibonacci series program in java
 
-17.Java Program to convert string to object 
+17.Java Program to convert string to object   
 
 18.Java program to check the vowel or consonant 
 
