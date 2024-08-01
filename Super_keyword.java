@@ -8,7 +8,7 @@ class Car extends Super_keyword {
 
 	void display() {
 		System.out.println("Maximum Speed: "
-				+ super.maxSpeed);
+				+ super.maxSpeed); 
 	}
 }
 
