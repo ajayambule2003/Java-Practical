@@ -87,3 +87,5 @@
 45.Java Program to split a string into all possible substrings  
 
 46.Java Program to Print Pascal's Triangle  
+
+47.Java program to illustrate concept of Abstraction
