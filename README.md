@@ -94,4 +94,4 @@
 
 49.Java Program to Find the Sum of Diagonals of a Matrix 
 
-50.
+50.Java Program to find the if the arrays are equal 
