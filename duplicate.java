@@ -16,18 +16,21 @@ public class duplicate {
 		return newList; 
 	} 
  
+	/**
+	 * @param args
+	 */
 	public static void main(String args[]) 
 	{ 
-		ArrayList<Integer> 
-			list = new ArrayList<>( 
-				Arrays 
-					.asList(1, 10, 1, 2, 2, 3, 3, 10, 3, 4, 5, 5)); 
-		System.out.println("ArrayList with duplicates: "
-						+ list); 
+		// ArrayList<Integer> 
+		// 	list = new ArrayList<>( 
+		// 		Arrays 
+		// 			.asList(1, 10, 1, 2, 2, 3, 3, 10, 3, 4, 5, 5)); 
+		// System.out.println("ArrayList with duplicates: "
+		// 				+ list); 
 
-		ArrayList<Integer> 
-			newList = removeDuplicates(list);  
-		System.out.println("ArrayList with duplicates removed: "
-						+ newList); 
+	// 	ArrayList<Integer> 
+	// 		// newList = removeDuplicates( );  
+	// 	// System.out.println("ArrayList with duplicates removed: "
+	// 					+ newList); 
 	} 
 } 
