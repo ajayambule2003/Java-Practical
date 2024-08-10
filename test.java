@@ -14,7 +14,7 @@ public class test {
         Matcher m2 = p.matcher(s2);
 
         System.out.println("First letter of each word from string \"" + s1 + "\" : ");
-        while (m1.find())
+        while (m1.find()) 
             System.out.print(m1.group());
 
         System.out.println();
