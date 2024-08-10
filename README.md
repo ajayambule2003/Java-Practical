@@ -97,3 +97,5 @@
 50.Java Program to find the if the arrays are equal   
 
 51.Java program to remove duplicates from ArrayList 
+
+52.Java program to show how to compare String using library function
