@@ -93,7 +93,7 @@
 48.Java Program to Append a String to the End of a File
  
 49.Java Program to Find the Sum of Diagonals of a Matrix 
-
+ 
 50.Java Program to find the if the arrays are equal   
  
 51.Java program to remove duplicates from ArrayList 

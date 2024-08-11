@@ -42,4 +42,9 @@ class Arrays {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'toString'");
     }
+
+    public static Object asList(int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'asList'");
+    }
 }
