@@ -1,6 +1,6 @@
 // Convert an Array into Collection in Java
 
-import java.util.*;  
+import java.util.*;
  
 public class ArrayToCollection {
 	public static void main(String args[])
