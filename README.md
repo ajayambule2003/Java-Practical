@@ -109,3 +109,5 @@
 56.Java Program to Search for a File in a Directory 
 
 57.Java Program to Rotate Matrix Elements
+
+58.Java Program to Rotate Elements of the List 
