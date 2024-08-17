@@ -103,3 +103,5 @@
 53.Java program to copy content from one file to another  
 
 54.Java Program to rename a file  
+
+55.Java program to demonstrate use of hasNext() method
