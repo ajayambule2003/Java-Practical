@@ -113,3 +113,5 @@
 58.Java Program to Rotate Elements of the List 
 
 59.Java Program to Display Current Date and Time
+
+60.Java code to illustrate remove duolicate of ArrayList using hashSet<> method 
