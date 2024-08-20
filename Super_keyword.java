@@ -1,23 +1,23 @@
-// super keyword in java program
-class Super_keyword {
-	int maxSpeed = 120;
-}
+// // super keyword in java program
+// class Super_keyword {
+// 	int maxSpeed = 120;
+// }
 
-class Car extends Super_keyword {
-	int maxSpeed = 180;
+// class Car extends Super_keyword {
+// 	int maxSpeed = 180;
 
-	void display() {
-		System.out.println("Maximum Speed: "
-				+ super.maxSpeed); 
-	}
-}
+// 	void display() {
+// 		System.out.println("Maximum Speed: "
+// 				+ super.maxSpeed); 
+// 	}
+// }
 
-class test { 
-	public static void main(String[] args) { 
-		Car small = new Car();
-		small.display();
-	}
-}
+// class test { 
+// 	public static void main(String[] args) { 
+// 		Car small = new Car();
+// 		small.display();
+// 	}
+// }
 
-// Oracle.oracle-java //Initial one
-// georgewfraser.vscode-javac //another one
+// // Oracle.oracle-java //Initial one
+// // georgewfraser.vscode-javac //another one
