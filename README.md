@@ -117,3 +117,5 @@
 60.Java code to illustrate remove duolicate of ArrayList using hashSet<> method String
 
 61.Java program for Sorting a String without using any inbuilt sorting functions
+
+62.Java Program to find common elements in two ArrayLists 
