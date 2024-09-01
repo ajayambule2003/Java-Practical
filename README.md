@@ -125,3 +125,5 @@
 64.Java program to print even length words in a string
 
 65.Java program to remove duplicates
+
+66.Java program to demonstrate copying by one by one assigning elements between arrays
