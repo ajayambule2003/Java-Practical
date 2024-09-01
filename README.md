@@ -123,3 +123,5 @@
 63.Java Program to find Sublist in a List 
 
 64.Java program to print even length words in a string
+
+65.Java program to remove duplicates
