@@ -1,4 +1,4 @@
-// java program find min and max value of unsorted list by using Collection 
+// Java program find min and max value of unsorted list by using Collection 
 import java.util.ArrayList; 
 import java.util.Collections; 
 import java.util.List; 

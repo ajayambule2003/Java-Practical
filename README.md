@@ -131,3 +131,5 @@
 67.Java Program to find the LCM of two numbers 
 
 68.Java Program to Handle multiple exception
+
+69.java program find min and max value of unsorted list by using Collection 
