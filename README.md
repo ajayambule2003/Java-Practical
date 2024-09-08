@@ -133,3 +133,5 @@
 68.Java Program to Handle multiple exception
 
 69.java program find min and max value of unsorted list by using Collection 
+
+70.Java Program to Compare Elements in a Collection 

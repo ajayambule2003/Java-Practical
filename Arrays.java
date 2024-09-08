@@ -38,7 +38,7 @@ class Arrays {
         PrintTheArray(arr, N);
     }
 
-    public static String toString(String[] arr1) {
+    public static String toString(Object[] objects) {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'toString'");
     }
