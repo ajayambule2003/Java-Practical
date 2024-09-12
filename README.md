@@ -139,3 +139,5 @@
 71.Java Program to convert string to byte 
  
 71.Java Program to Reverse a String using Stack  
+
+72.Java program to Get the size of a directory
