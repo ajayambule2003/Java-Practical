@@ -134,12 +134,14 @@
 
 69.java program find min and max value of unsorted list by using Collection 
 
-70.Java Program to Compare Elements in a Collection 
+70.Java Program to Compare Elements in a Collection
 
-71.Java Program to convert string to byte 
+71.Java Program to convert string to byte
  
-71.Java Program to Reverse a String using Stack  
+71.Java Program to Reverse a String using Stack
 
-72.Java program to Get the size of a directory   
+72.Java program to Get the size of a directory
     
-73.Java program for implementation of Bubble Sort  
+73.Java program for implementation of Bubble Sort
+
+74.Java Program to convert string to byte
