@@ -153,3 +153,5 @@
 77.Java Program to convert List to Stream in Java 
 
 78.Java program to Converting a String to a List of Characters
+
+79.Java program to reverse() method of Collections class over ArrayList 
