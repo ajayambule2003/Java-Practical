@@ -1,4 +1,4 @@
-// Java Program to convert List to Stream in Java 8
+// Java Program to convert List to Stream in Java 
 
 import java.util.List;
 import java.util.stream.Stream;

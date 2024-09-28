@@ -1,6 +1,7 @@
 
 // Java program to array rotation
 import java.io.*;
+import java.util.List;
 
 class Arrays {
     static void Rotate(int arr[], int d, int n) {
@@ -44,6 +45,11 @@ class Arrays {
     }
 
     public static Object asList(int i, int j, int k, int l, int m, int n, int o, int p, int q, int r, int s, int t) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'asList'");
+    }
+
+    public static List<String> asList(String string, String string2, String string3) {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'asList'");
     }
