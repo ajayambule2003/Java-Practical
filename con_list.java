@@ -9,7 +9,7 @@ class con_list {
         return list.stream();
     }
 
-    public static void main(String args[]) 
+    public static void main(String args[])   
     {
         List<String> list = Arrays.asList("Java Programming",
                                           "A computer portal", 
