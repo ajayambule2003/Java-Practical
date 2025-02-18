@@ -8,10 +8,10 @@ class convert_str {
 
     public static void main(String[] args) {
 
-        String stringValue = "1";
+        String stringValue = "1"; 
 
         byte byteValue;
-        byteValue = convertStringToByte(stringValue);
+        byteValue = convertStringToByte(stringValue); 
 
         System.out.println(
                 stringValue
