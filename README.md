@@ -10,7 +10,7 @@
 
 6.Java program to find HCF numbers 
 
-7.Java program to find the prime numbers  from 1 to N
+7.Java program to find the prime numbers  from 1 to N 
 
 8.Java Program to find even sum of Fibonacci number 
  
