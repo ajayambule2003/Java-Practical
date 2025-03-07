@@ -7,7 +7,7 @@
 4.Java program collection framework
 
 5.Convert an Array into Collection in Java
-
+ 
 6.Java program to find HCF numbers 
 
 7.Java program to find the prime numbers  from 1 to N 
