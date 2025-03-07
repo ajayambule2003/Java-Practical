@@ -4,7 +4,7 @@ import java.io.File;
 public class file {
 	public static void main(String[] args)
 	{ 
-
+ 
 		File file1 = new File("/home/mayur/GFG.java");
 		File file2 = new File("/home/mayur/file.txt");
 		File file3 = new File("/home/mayur/GFG.java");
