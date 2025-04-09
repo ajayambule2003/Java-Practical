@@ -7,13 +7,13 @@
 4.Java program collection framework
 
 5.Convert an Array into Collection in Java
+ 
+6.Java program to find HCF numbers  
 
-6.Java program to find HCF numbers 
+7.Java program to find the prime numbers  from 1 to N 
 
-7.Java program to find the prime numbers  from 1 to N
-
-8.Java Program to find even sum of Fibonacci number
-
+8.Java Program to find even sum of Fibonacci number 
+ 
 9.Java program to calculate the simple interest.
   
 10.Pyramid star pattern
@@ -155,5 +155,8 @@
 78.Java program to Converting a String to a List of Characters
 
 79.Java program to reverse() method of Collections class over ArrayList 
+<<<<<<< HEAD
 
 80. 
+=======
+>>>>>>> f4f08c5680ea1056f4fbcba9cc0d3b6b1c43fae6
