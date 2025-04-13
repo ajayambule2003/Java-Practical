@@ -13,10 +13,10 @@ class str_char {
         }
 
         return chars;
-    }
-
+     } 
     public static void main(String[] args) {
 
+        
         String str = "javaprogramming";
         List<Character> chars = convertStringToCharList(str);
         System.out.println(chars);
