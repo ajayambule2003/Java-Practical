@@ -6,8 +6,7 @@ import java.util.List;
 public class split {
 
 	public static List[] split(List<String> list)
-	{
-
+	{ 
 		List<String> first = new ArrayList<String>();
 		List<String> second = new ArrayList<String>();
 
