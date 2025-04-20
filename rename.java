@@ -9,9 +9,11 @@ public class rename {
 
 		if (flag == true) { 
 			System.out.println("File Successfully Rename"); 
-		}  
-		else { 
+		}
+		else {
 			System.out.println("Operation Failed"); 
-		} 
+		}
 	}
+
+
 }
