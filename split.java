@@ -17,10 +17,10 @@ public class split {
 
 		for (int i = size / 2; i < size; i++)
 			second.add(list.get(i));
-  
+
 		return new List[] { first, second };
 	}
-
+ 
 	public static void main(String[] args)
 	{
 
