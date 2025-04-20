@@ -155,8 +155,6 @@
 78.Java program to Converting a String to a List of Characters
 
 79.Java program to reverse() method of Collections class over ArrayList 
-<<<<<<< HEAD
 
 80. 
-=======
->>>>>>> f4f08c5680ea1056f4fbcba9cc0d3b6b1c43fae6
+
