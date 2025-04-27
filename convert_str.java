@@ -4,8 +4,7 @@ class convert_str {
 
     public static byte convertStringToByte(String str) {
         return Byte.parseByte(str);
-    }
-
+    } 
     public static void main(String[] args) {
 
         String stringValue = "1"; 
@@ -19,3 +18,4 @@ class convert_str {
                 + byteValue);
     }
 }
+ 
