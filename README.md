@@ -17,7 +17,7 @@
 9.Java program to calculate the simple interest.
   
 10.Pyramid star pattern
-
+ 
 11.Java pattern 
 
 12.Java Spring
