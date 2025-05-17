@@ -4,7 +4,7 @@ import java.util.*;
 
 public class list {
 
-    public static void main(String args[]) {
+    public static void main(String args[]) { 
         LinkedList<String> linkedList = new LinkedList<String>();
 
         linkedList.add("e");

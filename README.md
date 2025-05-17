@@ -5,7 +5,7 @@
 3.Comparing path of two files in Java
 
 4.Java program collection framework
-
+ 
 5.Convert an Array into Collection in Java
  
 6.Java program to find HCF numbers  
@@ -17,7 +17,7 @@
 9.Java program to calculate the simple interest.
   
 10.Pyramid star pattern
-
+ 
 11.Java pattern 
 
 12.Java Spring
