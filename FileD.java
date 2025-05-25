@@ -9,7 +9,7 @@ class FileD {
 
 		int count = files.length;
 		for (int i = 0; i < count; i++) {
-			if (files[i].isFile()) {
+			if (files[i].isFile()) { 
 				length += files[i].length();
 			}
 			else {
