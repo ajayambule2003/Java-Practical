@@ -8,7 +8,7 @@ class Rotate{
 
 		List<Integer> my_list = new ArrayList<>(); 
 		my_list.add(10); 
-		my_list.add(20); 
+		my_list.add(20);  
 		my_list.add(30); 
 		my_list.add(40); 
 		my_list.add(50); 
