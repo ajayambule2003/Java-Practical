@@ -11,7 +11,7 @@ public class Duplicate_ {
 		jpj.add("Java"); 
 		jpj.add("Programming"); 
 		jpj.add("Java"); 
-		System.out.println("Original ArrayList : "
+		System.out.println("Original ArrayList : " 
 						+ jpj); 
 
 		System.out.println("\nUsing LinkedHashSet:\n"); 
