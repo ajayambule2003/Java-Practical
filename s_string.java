@@ -12,6 +12,6 @@ class s_string {
 
 		System.out.println(
 				"Type of str : "
-	 					+ ((Object) str).getClass().getSimpleName());
-	 }
- }
+      	 		 			+ ((Object) str).getClass().getSimpleName());
+	}
+}
