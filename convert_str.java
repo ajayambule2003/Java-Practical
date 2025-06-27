@@ -16,8 +16,8 @@ class convert_str {
                 stringValue
                 + " after converting into byte = "
                 + byteValue);
-      }
 }
+} 
 
 
 
