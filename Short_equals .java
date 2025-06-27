@@ -8,5 +8,5 @@ class Short_equals {
 		System.out.println("Does " + a
 				+ " equals " + b
 				+ " : " + output);
-	}
+	} 
 }

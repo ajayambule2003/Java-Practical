@@ -12,7 +12,7 @@ class SubstringsOfAString {
         int stringLength = s.length();
 
         ArrayList<String> subStringList = new ArrayList<String>();
-        for (i = 0; i < stringLength; i++) {
+        for (i = 0; i < stringLength; i++) { 
 
             for (j = i + 1; j <= stringLength; j++) {
 
