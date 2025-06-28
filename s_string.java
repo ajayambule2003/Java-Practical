@@ -10,8 +10,9 @@ class s_string {
 				"Type of num : "
 						+ ((Object) num).getClass().getSimpleName());
 
-		System.out.println(
+		 System.out.println(
 				"Type of str : "
       	 		 			+ ((Object) str).getClass().getSimpleName());
-	}
+  	}
 }
+ 
