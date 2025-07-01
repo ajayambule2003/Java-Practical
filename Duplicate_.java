@@ -6,7 +6,7 @@ public class Duplicate_ {
 	public static void main(String args[]) 
 	{   
 		ArrayList<String>  
-			
+			 
 			jpj = new ArrayList<String>(); 
 
 		jpj.add("Java"); 
