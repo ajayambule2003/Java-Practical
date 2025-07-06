@@ -2,7 +2,7 @@
 
 import java.util.*; 
  
-public class ArrayToCollection {
+public class ArrayToCollection { 
 	public static void main(String args[])
 	{
 	 
