@@ -7,7 +7,7 @@ public class DaemonThread extends Thread
 	}
  
 	public void run() 
-	{
+	{ 
 
 		if(Thread.currentThread().isDaemon())
 		{
