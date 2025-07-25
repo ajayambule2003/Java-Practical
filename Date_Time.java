@@ -7,7 +7,7 @@ public class Date_Time {
 		Date date = new Date();
 
 		LocalDateTime d = LocalDateTime.now();
-		ZonedDateTime UTCtime = d.atZone(ZoneId.of("UTC")); 
+		ZonedDateTime UTCtime = d.atZone(ZoneId.of("UTC"));  
 		ZonedDateTime ISTtime = UTCtime.withZoneSameInstant(
 			ZoneId.of("Asia/Maharashtra"));
 		
