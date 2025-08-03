@@ -6,7 +6,7 @@ class FileD {
 	{
 		long length = 0;
 		File[] files = folder.listFiles();
-
+ 
 		int count = files.length;
 		for (int i = 0; i < count; i++) {
 			if (files[i].isFile()) { 
