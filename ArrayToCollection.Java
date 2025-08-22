@@ -7,7 +7,7 @@ public class ArrayToCollection {
 	{
 	 
 		String playersArray[]
-			= { "Virat", "Sachin", "Rohit", "Bumrah" };
+			= { "Virat", "Sachin", "Rohit", "Bumrah" }; 
 		 
 		System.out.println("Array input: "
 						+ Arrays.toString(playersArray));
