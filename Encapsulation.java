@@ -8,7 +8,7 @@ class Person {
         return name;
     }
 
-    public void setName(java.lang.String string) {
+    public void setName(java.lang.String string) { 
         this.name = string;
     }
 
@@ -32,3 +32,4 @@ public class Encapsulation {
         System.out.println("Age: " + person.getAge());
     }
 }
+
