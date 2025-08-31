@@ -3,7 +3,7 @@ import java.io.*;
 import java.util.*; 
 
 class element_collection { 
-	public static void main(String[] args)  
+	public static void main(String[] args)
 	{ 
 		List<Integer> l = new ArrayList<>(); 
 
