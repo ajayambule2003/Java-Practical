@@ -6,7 +6,7 @@ import java.util.ArrayList;
 class SubstringsOfAString {
 
     public static ArrayList<String> splitSubstrings(String s) {
-
+ 
         int i, j;
 
         int stringLength = s.length();
