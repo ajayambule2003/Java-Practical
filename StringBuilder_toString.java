@@ -6,7 +6,7 @@ class StringBuilder_toString {
 
     public static void main(String[] args) { 
 
-        StringBuilder str = new StringBuilder("Java Programming");
+        StringBuilder str = new StringBuilder("Java Programming"); 
         System.out.println("String contains = "  
                 + str.toString());
     }
