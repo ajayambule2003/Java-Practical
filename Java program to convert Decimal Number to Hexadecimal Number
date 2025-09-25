@@ -5,9 +5,7 @@ public class type {
  
 	static void decTohex(int n) 
 	{ 
- 
-		int[] hexNum = new int[100]; 
- 
+	int[] hexNum = new int[100]; 
 		int i = 0; 
 		while (n != 0) { 
  
