@@ -15,7 +15,6 @@ class BinarySearch {
                 l = mid + 1;
             }
         }
-
         return -1;
     }
 
