@@ -5,7 +5,7 @@ import java.util.*;
 
 class CollectionDemo {
   
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 
 		int arr[] = new int[] { 1, 2, 3, 4 }; 
 		Vector<Integer> v = new Vector();
