@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.List;
 
-class Arrays { 
+class Arrays {  
     static void Rotate(int arr[], int d, int n) { 
  
         int temp[] = new int[n];
@@ -54,5 +54,6 @@ class Arrays {
         throw new UnsupportedOperationException("Unimplemented method 'asList'");
     }
 }
+
 
 
