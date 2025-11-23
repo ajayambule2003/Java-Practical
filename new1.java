@@ -3,7 +3,7 @@
 import java.io.*;
 
 public class new1 {
-
+ 
 	public static void main(String[] args) {
 		FileInputStream fis = null;
 		try {
