@@ -4,7 +4,7 @@ public class new2 {
     public static void main(String[] args)
     {
         int a[] = { 1, 8, 3 };
-        int b[] = new int[a.length];
+        int b[] = new int[a.length]; 
         for (int i = 0; i < a.length; i++)
             b[i] = a[i];
 
