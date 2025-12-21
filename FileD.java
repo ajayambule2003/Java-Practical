@@ -2,7 +2,7 @@
 
 import java.io.File;
 class FileD {
-	private static long getFolderSize(File folder)
+	private static long getFolderSize(File folder) 
 	{
 		long length = 0;
 		File[] files = folder.listFiles();
